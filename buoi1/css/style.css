@@ -1,0 +1,55 @@
+.header {
+    background-color: gray;
+    width: 639px;
+    height: 75px;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    align-items: center;
+    justify-content: center;   
+}
+
+.main {
+    background-color: blue;
+    width: 638px;
+    height: 225px;
+    display: flex;
+}
+
+.main .content-left {
+    background-color: white;
+    width: 213px;
+    height: 100%;
+}
+
+.main .content-right {
+    background-color: yellow;
+    width: 426px;
+    height: 100%;
+}
+
+ul {
+    margin: 0px;
+    list-style: none;
+}
+
+.content-info {
+    color: black;
+    font-size: 16px;
+}
+
+.footer {
+    background-color: gray;
+    width: 638px;
+    height: 75px;
+}
+
+h3 {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin: 0px;
+    justify-content: center;
+}
